@@ -1,0 +1,27 @@
+* {
+    scroll-behavior: smooth;
+    color: #401414;
+}
+
+.navbar {
+    position: fixed;
+    background-color: #ffe4c1;
+}
+
+body {
+    background-color:#ffe4c1;
+}
+
+nav a {
+    color: #401414;
+    font-size: 13pt;  
+}
+
+.product-detail h1, .product-detail h2, .header-head, .header-para {
+    color: #401414;
+}
+
+.heading h1 {
+    color: #401414;
+    font-size: 30pt; 
+}
